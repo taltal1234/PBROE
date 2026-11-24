@@ -1,0 +1,37 @@
+sample,signal,weight,model,alpha_pct,alpha_t,months,b_MKT,t_MKT,b_SMB,t_SMB,b_HML,t_HML
+Market,s_resid,EW,CAPM,1.363,4.745,332,0.135,2.872,,,,
+Market,s_resid,EW,3 factor,0.903,3.731,332,0.054,1.155,0.302,5.197,0.618,9.231
+Market,s_resid,VW,CAPM,0.464,1.217,332,0.273,4.143,,,,
+Market,s_resid,VW,3 factor,-0.021,-0.056,332,0.184,3.068,0.312,3.094,0.661,6.492
+Market,s_k,EW,CAPM,0.525,1.776,332,-0.118,-1.511,,,,
+Market,s_k,EW,3 factor,0.717,2.492,332,-0.197,-2.825,-0.315,-3.703,0.046,0.525
+Market,s_k,VW,CAPM,0.909,2.403,332,-0.105,-1.246,,,,
+Market,s_k,VW,3 factor,1.123,2.959,332,-0.147,-1.986,-0.273,-2.264,-0.074,-0.676
+Market,s_value,EW,CAPM,1.432,4.322,332,0.217,3.984,,,,
+Market,s_value,EW,3 factor,0.779,3.082,332,0.128,2.671,0.472,7.452,0.805,11.636
+Market,s_value,VW,CAPM,0.916,2.627,332,0.336,4.915,,,,
+Market,s_value,VW,3 factor,0.103,0.43,332,0.236,5.775,0.606,9.337,0.974,17.405
+Market,s_roe,EW,CAPM,-0.158,-0.459,332,-0.252,-3.352,,,,
+Market,s_roe,EW,3 factor,0.475,1.558,332,-0.293,-4.5,-0.669,-7.334,-0.441,-5.162
+Market,s_roe,VW,CAPM,0.743,1.858,332,-0.33,-3.222,,,,
+Market,s_roe,VW,3 factor,1.212,3.092,332,-0.343,-4.486,-0.467,-4.272,-0.372,-3.103
+Market ex micro,s_resid,EW,CAPM,0.707,2.622,332,0.214,4.131,,,,
+Market ex micro,s_resid,EW,3 factor,0.314,1.307,332,0.136,2.494,0.242,4.507,0.552,10.791
+Market ex micro,s_resid,VW,CAPM,0.177,0.485,332,0.3,4.062,,,,
+Market ex micro,s_resid,VW,3 factor,-0.184,-0.498,332,0.22,3.037,0.21,2.097,0.528,5.194
+Market ex micro,s_value,EW,CAPM,0.558,2.045,332,0.284,4.246,,,,
+Market ex micro,s_value,EW,3 factor,0.069,0.309,332,0.167,2.678,0.269,5.464,0.74,14.24
+Market ex micro,s_value,VW,CAPM,0.526,1.729,332,0.371,5.455,,,,
+Market ex micro,s_value,VW,3 factor,-0.045,-0.195,332,0.227,5.169,0.303,3.337,0.883,13.301
+Banks,s_resid_sector,EW,CAPM,0.406,1.128,256,0.205,2.987,,,,
+Banks,s_resid_sector,EW,3 factor,0.049,0.139,256,0.153,2.273,0.286,3.47,0.421,4.526
+Banks,s_resid_sector,VW,CAPM,0.206,0.598,256,0.149,2.28,,,,
+Banks,s_resid_sector,VW,3 factor,-0.069,-0.204,256,0.122,1.797,0.263,2.134,0.29,2.389
+Cement,s_resid_sector,EW,CAPM,0.471,1.139,249,0.551,3.987,,,,
+Cement,s_resid_sector,EW,3 factor,-0.273,-0.644,249,0.401,3.173,0.399,3.0,0.901,5.8
+Cement,s_resid_sector,VW,CAPM,0.569,1.12,249,0.48,4.567,,,,
+Cement,s_resid_sector,VW,3 factor,-0.015,-0.035,249,0.38,4.179,0.378,2.802,0.666,4.134
+Textiles,s_resid_sector,EW,CAPM,1.336,3.429,255,0.114,1.598,,,,
+Textiles,s_resid_sector,EW,3 factor,0.974,2.568,255,0.079,1.038,0.317,2.782,0.399,3.127
+Textiles,s_resid_sector,VW,CAPM,1.314,2.637,255,0.158,1.823,,,,
+Textiles,s_resid_sector,VW,3 factor,0.852,1.798,255,0.115,1.243,0.409,3.15,0.506,3.92

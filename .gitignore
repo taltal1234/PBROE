@@ -1,0 +1,17 @@
+# WRDS data is licensed to you and must not be published
+data/
+# kept off GitHub: the backup of the code from before the refactor, and the old LUMS report
+original_code_backup/
+reference/
+# Python and macOS clutter
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz

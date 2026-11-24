@@ -1,0 +1,37 @@
+sample,signal,rebalance,cost_bps,net_ls_mean_pct,t,months
+Market,s_resid,monthly,0,1.463,4.702,334
+Market,s_resid,annual (Oct),0,1.222,3.864,334
+Market,s_resid,monthly,50,1.126,3.649,334
+Market,s_resid,annual (Oct),50,1.054,3.362,334
+Market,s_resid,monthly,100,0.789,2.573,334
+Market,s_resid,annual (Oct),100,0.886,2.84,334
+Market,s_k,monthly,0,0.345,1.095,334
+Market,s_k,annual (Oct),0,0.067,0.234,334
+Market,s_k,monthly,50,0.032,0.102,334
+Market,s_k,annual (Oct),50,-0.101,-0.354,334
+Market,s_k,monthly,100,-0.281,-0.9,334
+Market,s_k,annual (Oct),100,-0.268,-0.944,334
+Market ex micro,s_resid,monthly,0,0.912,2.956,334
+Market ex micro,s_resid,annual (Oct),0,0.909,3.032,334
+Market ex micro,s_resid,monthly,50,0.547,1.804,334
+Market ex micro,s_resid,annual (Oct),50,0.742,2.492,334
+Market ex micro,s_resid,monthly,100,0.183,0.611,334
+Market ex micro,s_resid,annual (Oct),100,0.574,1.934,334
+Banks,s_resid_sector,monthly,0,0.554,1.442,256
+Banks,s_resid_sector,annual (Oct),0,0.583,1.392,240
+Banks,s_resid_sector,monthly,50,0.335,0.872,256
+Banks,s_resid_sector,annual (Oct),50,0.417,1.0,240
+Banks,s_resid_sector,monthly,100,0.116,0.301,256
+Banks,s_resid_sector,annual (Oct),100,0.25,0.601,240
+Cement,s_resid_sector,monthly,0,0.862,1.721,249
+Cement,s_resid_sector,annual (Oct),0,0.845,1.54,239
+Cement,s_resid_sector,monthly,50,0.647,1.297,249
+Cement,s_resid_sector,annual (Oct),50,0.678,1.245,239
+Cement,s_resid_sector,monthly,100,0.431,0.868,249
+Cement,s_resid_sector,annual (Oct),100,0.51,0.943,239
+Textiles,s_resid_sector,monthly,0,1.417,3.577,255
+Textiles,s_resid_sector,annual (Oct),0,0.55,1.212,240
+Textiles,s_resid_sector,monthly,50,1.02,2.614,255
+Textiles,s_resid_sector,annual (Oct),50,0.383,0.843,240
+Textiles,s_resid_sector,monthly,100,0.622,1.615,255
+Textiles,s_resid_sector,annual (Oct),100,0.217,0.475,240

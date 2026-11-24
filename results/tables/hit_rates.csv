@@ -1,0 +1,9 @@
+sample,horizon,months,hit_rate_pct,base_rate_pct,excess_pct,excess_t
+Market,1 month,334,50.103,49.618,0.485,1.717
+Banks,1 month,256,49.833,50.115,-0.283,-0.388
+Cement,1 month,249,48.709,50.307,-1.598,-2.039
+Textiles,1 month,267,50.169,49.281,0.888,1.598
+Market,12 months (Oct),28,51.472,48.984,2.488,2.443
+Banks,12 months (Oct),20,53.321,50.002,3.319,1.216
+Cement,12 months (Oct),20,49.688,50.378,-0.69,-0.236
+Textiles,12 months (Oct),21,50.007,48.11,1.897,1.431
